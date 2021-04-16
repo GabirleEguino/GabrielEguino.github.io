@@ -2,7 +2,7 @@
 
 ---
 
-### GES 486 Projects 1 
+### GES 486 Projects  
 
 [Project 5](/sample_page)
 ![](Lab5_gif.gif)
