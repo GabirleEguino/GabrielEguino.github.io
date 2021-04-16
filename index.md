@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 5 Title](/sample_page)
+![](Lab5_gif.gif)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
