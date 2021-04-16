@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 5 Title](/sample_page)
+[Project 5](/sample_page)
 ![](Lab5_gif.gif)
 
 ---
