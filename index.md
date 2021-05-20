@@ -4,7 +4,7 @@
 
 ### GES 486 Projects  
 
-[Project 5](/sample_page)
+[Project 5](/Lab_5/Eguino_Lab5.html)
 ![](Lab5_gif.gif)
 
 ---
