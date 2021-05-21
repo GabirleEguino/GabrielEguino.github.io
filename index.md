@@ -27,7 +27,7 @@
 <img src="/Lab_5/Eguino_Actual_Lab5_Merged.pdf"/>
 ---
 
-[Midterm Project R Notbook](/Midterm/Eguino_Actual_Lab5.html)
+[Midterm Project R Notbook](/Midterm/Eguino_Lab5.html)
 ![Midterm Project Gif](https://media.giphy.com/media/Ijsjn52GNW7EwVZviP/giphy.gif)
 ---
 <img src="/Midterm/Eguino_Midterm_Merged.pdf"/>
