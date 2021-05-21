@@ -15,7 +15,7 @@
 ---
 
 [Lab 6 R Notebook](/Lab_6/Eguino_Lab6.html)
-<img src="/Lab_6/Eguino_Lab6_BivariateMap.pdf"
+<img src="/Lab_6/Eguino_Lab6_BivariateMap.pdf"/>
 
 ---
 
@@ -26,8 +26,6 @@
 
 [Midterm Project R Notbook](/Midterm/Eguino_Actual_Lab5.html)
 ![](/Midterm/Eguino_midterm.gif)
-
----
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
