@@ -8,8 +8,8 @@
 ![](Lab5_gif.gif)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Final Project](/Final_Project/FinalProject_gif.gif)
+![](Lab5_gif.gif)
 
 ---
 [Project 3 Title](http://example.com/)
