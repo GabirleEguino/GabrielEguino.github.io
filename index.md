@@ -2,33 +2,32 @@
 
 ---
 
-### GES 486 Projects  
+### GES 486 at UMBC (Labs & Projects)
 
-[Project 5](/Lab_5/Eguino_Lab5.html)
-![](Lab5_gif.gif)
-
----
 [Final Project](/Final_Project/FinalProject_gif.gif)
 ![](Lab5_gif.gif)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Lab 8 R Notebook](/Lab_8/Eguino_Lab8.html)
+<img src="/Lab_8/Lab8_Bivariate.pdf"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Lab 6 R Notebook](/Lab_6/Eguino_Lab6.html)
+<img src="/Lab_6/Eguino_Lab6_BivariateMap.pdf"/>
 
 ---
 
+[Lab 5 R Notbook](/Lab_5/Eguino_Lab5.html)
+![](Lab5_gif.gif)
 
+---
 
+[Midterm Project R Notbook](/Midterm/Eguino_Actual_Lab5.html)
+![](/Midterm/Eguino_midterm.gif)
+
+---
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
