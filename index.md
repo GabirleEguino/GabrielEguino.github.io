@@ -5,8 +5,7 @@
 ### GES 486 at UMBC (Labs & Projects)
 
 [Final Project R Notebook](/Final_Project/Eguino_FinalProject.html)
-![](/Final_Project/FinalProject_gif.gif)
-
+<img src="/Final_Project/FinalProject_gif.gif"/>
 ---
 
 [Lab 8 R Notebook](/Lab_8/Eguino_Lab8.html)
@@ -20,12 +19,11 @@
 ---
 
 [Lab 5 R Notbook](/Lab_5/Eguino_Lab5.html)
-![](Lab5_gif.gif)
-
+<img src="/Lab5_gif.gif"/>
 ---
 
 [Midterm Project R Notbook](/Midterm/Eguino_Actual_Lab5.html)
-![](/Midterm/Eguino_midterm.gif)
+<img src="/Midterm/Eguino_midterm.gif"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
