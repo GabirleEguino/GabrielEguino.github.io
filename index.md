@@ -6,7 +6,7 @@
 
 [Final Project R Notebook](/Final_Project/Eguino_FinalProject.html)
 ![Final Project Gif](https://media.giphy.com/media/LLldY6UGbBDqTHcIvS/giphy.gif)
-<img src="/Final_Project/Eguino_FinalProject_Merged.pdf/>
+<img src="/Final_Project/Eguino_FinalProject_Merged.pdf"/>
 ---
 
 [Lab 8 R Notebook](/Lab_8/Eguino_Lab8.html)
@@ -24,7 +24,7 @@
 
 [Lab 5 R Notbook](/Lab_5/Eguino_Actual_Lab5.html)
 ![Lab 5 Gif](https://media.giphy.com/media/1LBZU6rOi8D5lMpHdF/giphy.gif)
-<img src="/Lab_5/Eguino_Actual_Lab5_Merged.pdf/>
+<img src="/Lab_5/Eguino_Actual_Lab5_Merged.pdf"/>
 ---
 
 [Midterm Project R Notbook](/Midterm/Eguino_Actual_Lab5.html)
