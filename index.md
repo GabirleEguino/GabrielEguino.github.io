@@ -4,8 +4,8 @@
 
 ### GES 486 at UMBC (Labs & Projects)
 
-[Final Project](/Final_Project/FinalProject_gif.gif)
-![](Lab5_gif.gif)
+[Final Project R Notebook](/Final_Project/Eguino_FinalProject.html)
+![](/Final_Project/FinalProject_gif.gif)
 
 ---
 
@@ -15,7 +15,7 @@
 ---
 
 [Lab 6 R Notebook](/Lab_6/Eguino_Lab6.html)
-<img src="/Lab_6/Eguino_Lab6_BivariateMap.pdf"/>
+<img src="/Lab_6/Eguino_Lab6_BivariateMap.pdf"
 
 ---
 
