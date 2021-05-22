@@ -5,7 +5,9 @@
 ### GES 486 at UMBC (Labs & Projects)
 
 [Final Project R Notebook](/Final_Project/Eguino_FinalProject.html)
+---
 [Final Project R Write-Up](<img src="/Final_Project/Eguino_FinalProject_WriteUp.pdf"/>)
+---
 ![Final Project Gif](https://media.giphy.com/media/JUV9mOKDW1I9hb3TuL/giphy.gif)
 ---
 <img src="/Final_Project/2014_Final_Project.png"/>
